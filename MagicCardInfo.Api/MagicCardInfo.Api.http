@@ -1,0 +1,6 @@
+@MagicCardInfo.Api_HostAddress = http://localhost:5032
+
+GET {{MagicCardInfo.Api_HostAddress}}/cards/
+Accept: application/json
+
+###

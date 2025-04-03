@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MDd4Rffv9bsLY9pO18wWKNQBfX3cF/IWgTwcRX0tgmc=",
+  "Source": "MagicCardInfo.Api",
+  "BasePath": "_content/MagicCardInfo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

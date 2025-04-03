@@ -1,0 +1,12 @@
+F:\GameListProject\MagicCardInfo.Domain\bin\Debug\net9.0\MagicCardInfo.Domain.deps.json
+F:\GameListProject\MagicCardInfo.Domain\bin\Debug\net9.0\MagicCardInfo.Domain.dll
+F:\GameListProject\MagicCardInfo.Domain\bin\Debug\net9.0\MagicCardInfo.Domain.pdb
+F:\GameListProject\MagicCardInfo.Domain\obj\Debug\net9.0\MagicCardInfo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameListProject\MagicCardInfo.Domain\obj\Debug\net9.0\MagicCardInfo.Domain.AssemblyInfoInputs.cache
+F:\GameListProject\MagicCardInfo.Domain\obj\Debug\net9.0\MagicCardInfo.Domain.AssemblyInfo.cs
+F:\GameListProject\MagicCardInfo.Domain\obj\Debug\net9.0\MagicCardInfo.Domain.csproj.CoreCompileInputs.cache
+F:\GameListProject\MagicCardInfo.Domain\obj\Debug\net9.0\MagicCardInfo.Domain.sourcelink.json
+F:\GameListProject\MagicCardInfo.Domain\obj\Debug\net9.0\MagicCardInfo.Domain.dll
+F:\GameListProject\MagicCardInfo.Domain\obj\Debug\net9.0\refint\MagicCardInfo.Domain.dll
+F:\GameListProject\MagicCardInfo.Domain\obj\Debug\net9.0\MagicCardInfo.Domain.pdb
+F:\GameListProject\MagicCardInfo.Domain\obj\Debug\net9.0\ref\MagicCardInfo.Domain.dll
